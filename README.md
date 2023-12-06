@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###### Copyright (c) 2023 Carolina Chavarriaga
+###### Todos los derechos reservados.
